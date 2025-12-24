@@ -36,7 +36,6 @@ cost, quantity, and regional performance to support data-driven decision-making.
 - `First Bi Dashboard.pdf` – Exported Power BI dashboard
 
 ## 📸 Dashboard Preview
-(Screenshots included in the repository)
-
+![image alt](https://github.com/rishu8587/Sales-Dashboard-of-year-2020--22/blob/c25d60d7918924f82796936ccff6d8125541d2ea/IMG_3729.jpg)
 ## 👤 Author
 Rishabh
